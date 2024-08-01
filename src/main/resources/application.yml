@@ -1,0 +1,10 @@
+spring:
+    application:
+        name: JPA-Mongo-template
+    jpa:
+        defer-datasource-initialization: true
+    profiles:
+        active: mongo
+    sql:
+        init:
+            mode: always

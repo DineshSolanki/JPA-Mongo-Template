@@ -1,0 +1,16 @@
+spring:
+  data:
+    jpa:
+      repositories:
+        enabled: false
+    mongodb:
+      uri: mongodb://localhost:27017/test
+  autoconfigure:
+    exclude:
+      - org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+      - org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration
+de:
+  flapdoodle:
+    mongodb:
+      embedded:
+        version: 4.0.2

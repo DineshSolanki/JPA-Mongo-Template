@@ -1,0 +1,10 @@
+INSERT INTO Student (id, name) VALUES (1, 'John Doe');
+INSERT INTO Student (id, name) VALUES (2, 'Jane Smith');
+INSERT INTO Student (id, name) VALUES (3, 'Alice Johnson');
+INSERT INTO Student (id, name) VALUES (4, 'Bob Brown');
+INSERT INTO Student (id, name) VALUES (5, 'Charlie Davis');
+INSERT INTO Student (id, name) VALUES (6, 'Diana Evans');
+INSERT INTO Student (id, name) VALUES (7, 'Franklin Green');
+INSERT INTO Student (id, name) VALUES (8, 'Grace Hall');
+INSERT INTO Student (id, name) VALUES (9, 'Henry King');
+INSERT INTO Student (id, name) VALUES (10, 'Isabel Lee');
