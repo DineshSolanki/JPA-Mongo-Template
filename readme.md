@@ -1,0 +1,1 @@
+See relevant article - https://aprogrammers.wordpress.com/2024/01/25/using-single-entity-with-jpa-and-mongo-db-in-spring-boot/
